@@ -1,0 +1,13 @@
+{
+    author = "LinaTsukusu",
+    name = "option",
+    description = "",
+    repository = "LinaTsukusu-CCOC/option",
+    version = "1.0.0",
+    files = {
+        "option.lua",
+    },
+    dependencies = {
+        "LinaTsukusu-CCOC/table-util",
+    },
+}
